@@ -1,0 +1,22 @@
+div.code_example {
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+div.code_example > code {
+    display: block;
+    padding-top: .1em;
+    padding-bottom: .1em;
+}
+
+.indent_1 {
+    margin-left: 2em;
+}
+
+.indent_2 {
+    margin-left: 4em;
+}
+
+code {
+    color: blue;
+}
